@@ -1,4 +1,4 @@
 # favorite food
 
 apple
-pork(from branch-b)
+beef(from branch-a)
